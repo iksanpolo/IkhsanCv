@@ -20,9 +20,9 @@ import { LinkedInIcon } from "../components/icons/LinkedInIcon";
 import { XIcon } from "../components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
+  name: "R IKHSAN NUR AKBAR",
+  initials: "R.I.N.A",
+  location: "Bogor, West Java, ID",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
     "Full Stack Engineer focused on building products with extra attention to details",
